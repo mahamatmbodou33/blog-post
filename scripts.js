@@ -1,1 +1,3 @@
-alert.apply('HACKED')
+const newFeature =  function(){
+    console.log('Welcome to the application!!')
+}
